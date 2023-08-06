@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/encrypter/static/css/main.f2408e2b.css",
+    "main.js": "/encrypter/static/js/main.57a94936.js",
+    "index.html": "/encrypter/index.html",
+    "main.f2408e2b.css.map": "/encrypter/static/css/main.f2408e2b.css.map",
+    "main.57a94936.js.map": "/encrypter/static/js/main.57a94936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2408e2b.css",
+    "static/js/main.57a94936.js"
+  ]
+}
