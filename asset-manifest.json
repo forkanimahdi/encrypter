@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/encrypter/static/css/main.92c9b519.css",
-    "main.js": "/encrypter/static/js/main.d12236d4.js",
+    "main.js": "/encrypter/static/js/main.cb0c734b.js",
     "static/media/logo.png": "/encrypter/static/media/logo.12b560f290c90332fb38.png",
     "static/media/Hero.png": "/encrypter/static/media/Hero.df6ac3dc3090d7582657.png",
     "index.html": "/encrypter/index.html",
     "main.92c9b519.css.map": "/encrypter/static/css/main.92c9b519.css.map",
-    "main.d12236d4.js.map": "/encrypter/static/js/main.d12236d4.js.map"
+    "main.cb0c734b.js.map": "/encrypter/static/js/main.cb0c734b.js.map"
   },
   "entrypoints": [
     "static/css/main.92c9b519.css",
-    "static/js/main.d12236d4.js"
+    "static/js/main.cb0c734b.js"
   ]
 }
